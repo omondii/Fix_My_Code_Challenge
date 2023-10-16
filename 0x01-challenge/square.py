@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 """Function to calc area and perimeter
 """
+
+
 class square():
     """
     Params:
@@ -23,6 +25,7 @@ class square():
 
     def __str__(self):
         return "{}/{}".format(self.width, self.height)
+
 
 if __name__ == "__main__":
 
