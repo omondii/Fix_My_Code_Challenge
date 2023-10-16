@@ -1,6 +1,12 @@
 #!/usr/bin/python3
-
+"""Function to calc area and perimeter
+"""
 class square():
+    """
+    Params:
+      width - side measeuremnt
+      length - legnth measurement
+    """
     width = 0
     height = 0
 
